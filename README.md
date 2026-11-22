@@ -1,32 +1,30 @@
-## # Hola, soy Salomón Josué Bray 👋
+## Hola, soy Salomón Josué Bray Barrios / Hi, I'm Salomón Josué Bray Barrios
 
-Estudiante de Ingeniería de Datos e Inteligencia Artificial.
+Estudiante de Ingeniería de Datos e Inteligencia Artificial / Data Engineering & AI Student.
 
-## Intereses
+## Intereses / Interests
 
-- Ciencia de datos
-- Análisis de datos
-- Inteligencia artificial
-- Automatización
-- Producción audiovisual
-- Edición de video
-- Cine y narrativa audiovisual
+- Ciencia de datos / Data Science
+- Análisis de datos / Data Analysis
+- Inteligencia artificial / Artificial Intelligence
+- Automatización / Automation
+- Producción audiovisual / Audiovisual Production
+- Edición de video / Video Editing
+- Cine y narrativa audiovisual / Cinema & Visual Storytelling
 
-## Tecnologías
-
+## Tecnologías / Technologies
 - Python
 - AppSheet
 - Excel
-- Microsoft Office(basico /basic)
+- Microsoft Office (básico / basic)
 - SAP
 
-## Actualmente
+## Actualmente / Currently
+📚 Aprendiendo Ingeniería de datos e inteligencia artificial. / Learning Data Engineering & AI.
 
-📚 Aprendiendo Ingeniería de datos e inteligencia artificial.
+🎬 Interesado en producción audiovisual, edición y narrativa cinematográfica. / Interested in audiovisual production, editing, and cinematic storytelling.
 
-🎬 Interesado en producción audiovisual, edición y narrativa cinematográfica.
-
-🚀 Construyendo proyectos para mi portafolio profesional.
+🚀 Construyendo proyectos para mi portafolio profesional. / Building projects for my professional portfolio.
 
 <!--
 **salobray/salobray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
